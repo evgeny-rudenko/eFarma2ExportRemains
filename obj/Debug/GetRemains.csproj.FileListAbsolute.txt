@@ -1,0 +1,7 @@
+V:\Projects\Opora\GetRemains\bin\Debug\GetRemains.exe.config
+V:\Projects\Opora\GetRemains\bin\Debug\GetRemains.exe
+V:\Projects\Opora\GetRemains\bin\Debug\GetRemains.pdb
+V:\Projects\Opora\GetRemains\obj\Debug\GetRemains.csprojResolveAssemblyReference.cache
+V:\Projects\Opora\GetRemains\obj\Debug\GetRemains.exe
+V:\Projects\Opora\GetRemains\obj\Debug\GetRemains.pdb
+V:\Projects\Opora\GetRemains\bin\Debug\Описание полей.txt
